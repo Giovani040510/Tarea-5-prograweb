@@ -1,0 +1,15 @@
+h1 {
+    font-size: 3rem;
+    color: #333;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#gif {
+    margin: 0 auto; 
+    display: block; 
+    width: 80%; 
+}
